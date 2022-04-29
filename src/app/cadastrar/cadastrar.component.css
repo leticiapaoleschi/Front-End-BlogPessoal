@@ -1,0 +1,9 @@
+#img-bg {
+  background-image: url(https://img.freepik.com/vetores-gratis/plano-de-fundo-doodle-abstrato_23-2149316033.jpg?w=996);
+
+  min-height: 695px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
